@@ -3,8 +3,8 @@
 An AI-powered simulation system for autonomous aircraft ground movement at airports. Models the taxiway network of Ahmedabad International Airport (VAAH) as a weighted directed graph and uses Dijkstra's algorithm with a dynamic cost function to compute optimal taxi routes — reducing taxi time by 25–55% over standard ATC routing.
 
 > **Indian Patent Granted** — Application No. 202511036424  
-> 📄 **Paper submitted** to Springer Scopus-indexed ICCIS 2026, BITS Pilani Goa  
-> 📝 **Preprint published** on Research Square (under peer review)
+> **Paper submitted** to Springer Scopus-indexed ICCIS 2026, BITS Pilani Goa  
+> **Preprint published** on Research Square (under peer review)
 
 ---
 
